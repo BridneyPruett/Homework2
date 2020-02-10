@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18452a18-dbe3-496f-97b4-87cb29556948" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PersonGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +40,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration name="PersonGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PersonGenerator" />
+      <module name="homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PersonGenerator" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
       <list>
@@ -64,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581195778819</updated>
-      <workItem from="1581195795583" duration="5793000" />
+      <workItem from="1581195795583" duration="10470000" />
     </task>
     <task id="LOCAL-00001" summary="added gitignore file">
       <created>1581196488480</created>
@@ -80,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581197939755</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created a person class">
+      <created>1581274651449</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581274651449</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,17 +108,38 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added gitignore file" />
     <MESSAGE value="started creating a person class" />
-    <option name="LAST_COMMIT_MESSAGE" value="started creating a person class" />
+    <MESSAGE value="Created a person class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a person class" />
   </component>
   <component name="WindowStateProjectService">
     <state x="822" y="69" key="#com.intellij.ide.util.MemberChooser" timestamp="1581272627960">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="822" y="69" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581272627960" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1581197937595">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1581274648913">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581197937595" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1581274648913" />
+    <state width="618" height="170" key="GridCell.Tab.0.bottom" timestamp="1581299324929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581299324929" />
+    <state width="618" height="170" key="GridCell.Tab.0.center" timestamp="1581299324929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581299324929" />
+    <state width="618" height="170" key="GridCell.Tab.0.left" timestamp="1581299324929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581299324929" />
+    <state width="618" height="170" key="GridCell.Tab.0.right" timestamp="1581299324929">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="618" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581299324929" />
+    <state x="799" y="90" key="RollbackChangesDialog" timestamp="1581298769240">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="799" y="90" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581298769240" />
     <state x="391" y="94" key="com.intellij.ide.util.TipDialog" timestamp="1581195799695">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
